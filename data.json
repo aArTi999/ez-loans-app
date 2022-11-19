@@ -1,0 +1,118 @@
+{
+  "allservices": {
+    "data1": {
+      "type": "Small scale  Business Loans",
+      "code": "SCB",
+      "imgUrl": "./images/architecture.webp",
+      "description": "Providing loans which  designed for your aspirations in starting a business",
+      "detail": [
+        {
+          "type": "DI Loan",
+          "min": 15000,
+          "max": 100000,
+          "rate": 0.05,
+          "tenure": 150
+        },
+        {
+          "type": "MI Loan",
+          "min": 100000,
+          "max": 300000,
+          "rate": 0.07,
+          "tenure": 34
+        }
+      ]
+    },
+    "data2": {
+      "type": "Money Remittance",
+      "code": "MR",
+      "imgUrl": "./images/money1.jpg",
+      "description": "Secure, simple and most exciting way of your transactions to inter and intra regions",
+      "detail": [
+        {
+          "type": "Domestic",
+          "min": 2500,
+          "max": 25000,
+          "rate": 0.02,
+          "tenure": "NA"
+        },
+        {
+          "type": "Inward",
+          "min": 5000,
+          "max": 10000,
+          "rate": 0.05,
+          "tenure": "NA"
+        }
+      ]
+    },
+    "data3": {
+      "type": "Wealth Management",
+      "code": "WM",
+      "imgUrl": "./images/wealth.jpg",
+      "description": "We are providing significant services for your betterment of your wealth management by experts",
+      "detail": [
+        "DEMAT",
+        "PAN",
+        "NPS"
+      ]
+    },
+    "data4": {
+      "type": "Micro Finance",
+      "code": "MF",
+      "imgUrl": "./images/micro.webp",
+      "description": "Motivate the enterpreneurs across all small villages and rural areas by providing them a better support",
+      "detail": [
+        {
+          "type": "NA",
+          "rate": 0.28,
+          "min": 1000,
+          "max": 3500,
+          "tenure": 2
+        }
+      ]
+    }
+  },
+  "members": [
+    {
+      "username": "user34",
+      "mobile": "9984056778",
+      "password": "12345678",
+      "id": 1
+    },
+    {
+      "username": "user44",
+      "mobile": "9903456777",
+      "password": "12345678",
+      "id": 2
+    },
+    {
+      "username": "user84",
+      "mobile": "9903456771",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "username": "user04",
+      "mobile": "9903456056",
+      "password": "12345678",
+      "id": 4
+    },
+    {
+      "username": "tutu",
+      "mobile": "5876897940",
+      "password": "tutu0909",
+      "id": 5
+    },
+    {
+      "username": "OA@342",
+      "mobile": "5876897940",
+      "password": "oabe4567",
+      "id": 6
+    },
+    {
+      "username": "sharma__",
+      "mobile": "8319611970",
+      "password": "sharma07",
+      "id": 7
+    }
+  ]
+}
